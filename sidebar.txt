@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kzx:home|Door43 (kzx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kzx|d43-kzx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kzx/archive/master.zip|d43-kzx.zip]]
+
+**Recent Changes**
+{{changes>ns = kzx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kzx|Ethnologue data]]
+
